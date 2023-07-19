@@ -37,7 +37,7 @@ Pré-requisitos: Certifique-se de ter o Node.js instalado no seu computador.
 
 - Inicie o servidor de desenvolvimento: Após a conclusão da instalação das dependências, execute o comando npm run dev para iniciar o servidor de desenvolvimento.
 
-- Acesse o site: Abra o navegador e acesse http://localhost:3000 para visualizar o site da Leadster.
+- Acesse o site: Abra o navegador e acesse http://localhost:3000 para visualizar o projeto AstroMatch.
 
 # `Tecnologias utilizadas`
 
